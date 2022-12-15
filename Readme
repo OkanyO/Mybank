@@ -1,0 +1,10 @@
+Golang banking app
+
+
+Run
+Setup a PostgreSQL db
+You need to setup your connection string in the two files, Database.go, and migrations.go
+go run main.go
+
+Type:
+go run main.go
